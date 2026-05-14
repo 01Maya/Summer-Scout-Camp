@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Summer Scout Camp | Adventure Awaits',
   description: 'Join our unforgettable summer scout camp adventure. Outdoor education, teamwork, exploration, and fun for all ages.',
-  generator: 'v0.app',
   themeColor: '#5F776B',
   icons: {
     icon: [
