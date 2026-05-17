@@ -14,3 +14,8 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 ---
 
 # Features
+
+- Fully Responsive Design
+- Smooth Scroll Navigation
+- Section-Based Navigation Effect
+- Hover Animations & Interactive Cards
