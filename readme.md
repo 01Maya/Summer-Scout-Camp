@@ -19,4 +19,6 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 - Smooth Scroll Navigation
 - Section-Based Navigation Effect
 - Hover Animations & Interactive Cards
+- Scroll Reveal Animations
+- Parallax Effects
 
