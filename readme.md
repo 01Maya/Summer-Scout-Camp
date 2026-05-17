@@ -13,7 +13,7 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 
 ---
 
-# Features
+# Features 💠
 
 - Fully Responsive Design
 - Smooth Scroll Navigation
