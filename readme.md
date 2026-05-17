@@ -12,3 +12,5 @@ The website combines cinematic hero sections, animated activity showcases, float
 It focuses on premium UI/UX principles, responsive layouts, immersive animations, and a warm earthy visual identity inspired by real scout camp adventures.
 
 ---
+
+# Features
