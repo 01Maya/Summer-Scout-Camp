@@ -28,6 +28,6 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 - Sticky Navbar with Blur Effect
 - Animated Buttons & Icons
 - Gallery Hover Effects
-- Newsletter Subscription Section
+
 
 
