@@ -31,5 +31,7 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 
 # Sections 🌼
 
+### Hero Section
+Displays a cinematic summer camp banner with floating polaroid cards, animated headings, and CTA button.
 
 
