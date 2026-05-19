@@ -40,6 +40,6 @@ Highlights the scout camp experience, teamwork, outdoor adventures, and educatio
 ### Camp Features Section
 Showcases key camp facilities and features using animated cards and icons.
 
-
-
+### Activities Section
+Presents exciting camp activities with interactive hover transitions and scrapbook-style image layouts.
 
