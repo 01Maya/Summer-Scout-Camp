@@ -43,3 +43,7 @@ Showcases key camp facilities and features using animated cards and icons.
 ### Activities Section
 Presents exciting camp activities with interactive hover transitions and scrapbook-style image layouts.
 
+### Testimonials Section
+Displays customer reviews and feedback using animated review cards and carousel effects.
+
+
