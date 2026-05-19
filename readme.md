@@ -21,4 +21,13 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 - Hover Animations & Interactive Cards
 - Scroll Reveal Animations
 - Parallax Effects
+- Mobile Optimized UI
+- Smooth Ease In-Out Transitions
+- Interactive Activity Showcase
+- Modern UI/UX Design
+- Sticky Navbar with Blur Effect
+- Animated Buttons & Icons
+- Gallery Hover Effects
+- Newsletter Subscription Section
+
 
