@@ -34,4 +34,8 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 ### Hero Section
 Displays a cinematic summer camp banner with floating polaroid cards, animated headings, and CTA button.
 
+### Program Section
+Highlights the scout camp experience, teamwork, outdoor adventures, and educational activities.
+
+
 
