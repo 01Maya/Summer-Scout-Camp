@@ -37,5 +37,9 @@ Displays a cinematic summer camp banner with floating polaroid cards, animated h
 ### Program Section
 Highlights the scout camp experience, teamwork, outdoor adventures, and educational activities.
 
+### Camp Features Section
+Showcases key camp facilities and features using animated cards and icons.
+
+
 
 
