@@ -29,5 +29,7 @@ It focuses on premium UI/UX principles, responsive layouts, immersive animations
 - Animated Buttons & Icons
 - Gallery Hover Effects
 
+# Sections
+
 
 
