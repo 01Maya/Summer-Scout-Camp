@@ -49,4 +49,10 @@ Displays customer reviews and feedback using animated review cards and carousel 
 ### Dates & Prices Section
 Shows camp schedules, pricing plans, and registration information in a timeline layout.
 
+### Gallery / How It Was Section
+Displays memorable camp moments through an immersive animated photo gallery.
+
+### Footer & Contact Section
+Contains navigation links, contact details, newsletter form, and social media icons.
+
 
