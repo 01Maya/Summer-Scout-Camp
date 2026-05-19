@@ -46,4 +46,7 @@ Presents exciting camp activities with interactive hover transitions and scrapbo
 ### Testimonials Section
 Displays customer reviews and feedback using animated review cards and carousel effects.
 
+### Dates & Prices Section
+Shows camp schedules, pricing plans, and registration information in a timeline layout.
+
 
