@@ -56,4 +56,8 @@ Displays memorable camp moments through an immersive animated photo gallery.
 Contains navigation links, contact details, newsletter form, and social media icons.
 
 ---
+# Tech Stack
+
+
+
 
