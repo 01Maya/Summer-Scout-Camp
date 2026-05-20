@@ -60,5 +60,8 @@ Contains navigation links, contact details, newsletter form, and social media ic
 
 - Next.js
 - Tailwind CSS
+- Framer Motion
+- Shadcn 
+
 
 
