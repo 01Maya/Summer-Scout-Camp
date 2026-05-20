@@ -55,4 +55,5 @@ Displays memorable camp moments through an immersive animated photo gallery.
 ### Footer & Contact Section
 Contains navigation links, contact details, newsletter form, and social media icons.
 
+---
 
