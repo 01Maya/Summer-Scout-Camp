@@ -64,5 +64,5 @@ Contains navigation links, contact details, newsletter form, and social media ic
 - Framer Motion
 - Shadcn 
 
-
+---
 
