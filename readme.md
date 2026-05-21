@@ -66,5 +66,5 @@ Contains navigation links, contact details, newsletter form, and social media ic
 
 ---
 
-# Screenshot
+# Screenshot 📸
 
