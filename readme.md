@@ -71,3 +71,6 @@ Contains navigation links, contact details, newsletter form, and social media ic
 ---
 
 # Preview
+
+https://summer-scout-camp.vercel.app
+
