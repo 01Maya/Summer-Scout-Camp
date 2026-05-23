@@ -85,5 +85,11 @@ git clone https://github.com/your-username/summer-scout-camp.git
 ```
 
 ---
+## 2. Navigate To Project
 
+```bash
+cd summer-scout-camp
+```
+
+---
 
