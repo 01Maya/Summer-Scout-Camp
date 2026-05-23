@@ -76,4 +76,5 @@ https://summer-scout-camp.vercel.app
 
 ---
 
+# Installation
 
