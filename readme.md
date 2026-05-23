@@ -78,3 +78,12 @@ https://summer-scout-camp.vercel.app
 
 # Installation
 
+## 1. Clone Repository
+
+```bash
+git clone https://github.com/your-username/summer-scout-camp.git
+```
+
+---
+
+
