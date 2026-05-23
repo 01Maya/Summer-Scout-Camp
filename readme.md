@@ -92,4 +92,12 @@ cd summer-scout-camp
 ```
 
 ---
+## 3. Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
 
