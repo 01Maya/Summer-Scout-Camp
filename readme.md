@@ -114,7 +114,7 @@ http://localhost:3000
 
 ---
 
-# License
+# License 📃
 
 This project is created for educational and portfolio purposes.
 
