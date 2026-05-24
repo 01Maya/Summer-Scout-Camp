@@ -116,6 +116,10 @@ http://localhost:3000
 
 # Author
 
+Maya Patel:)
+
+---
+
 # License 📃
 
 This project is created for educational and portfolio purposes.
