@@ -76,7 +76,7 @@ https://summer-scout-camp.vercel.app
 
 ---
 
-# Installation
+# Installation ⚡️
 
 ## 1. Clone Repository
 
