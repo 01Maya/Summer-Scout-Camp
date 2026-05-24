@@ -57,7 +57,7 @@ Contains navigation links, contact details, newsletter form, and social media ic
 
 ---
 
-# Tech Stack
+# Tech Stack 🪄
 
 - Next.js
 - Tailwind CSS
