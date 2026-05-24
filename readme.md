@@ -74,6 +74,8 @@ https://summer-scout-camp.vercel.app
 
 # Screenshot 📸
 
+<img width="1763" height="8475" alt="Image" src="https://github.com/user-attachments/assets/4ac9f511-b5a9-4e6a-b065-a42c5d249b03" />
+
 ---
 
 # Installation ⚡️
